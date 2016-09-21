@@ -7,7 +7,12 @@ h1 {
   font-size: 77px;
 }
 
-.container{background:green;}
+.container{ margin: 0 auto;}
+
+.box{padding:10px; text-align: center; border:1px solid black; background:Red; width:200px; margin:0 auto;}
+
+.box p{color:#fff;}
+
 
 h2 {
   color: yellow;
